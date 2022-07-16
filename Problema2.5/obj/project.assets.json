@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos C#\\UTN-PROGRAMACION-I\\Ejercicio2.2\\Problema2.2.csproj",
-      "projectName": "Problema2.2",
-      "projectPath": "C:\\Proyectos C#\\UTN-PROGRAMACION-I\\Ejercicio2.2\\Problema2.2.csproj",
+      "projectUniqueName": "C:\\Proyectos C#\\UTN-PROGRAMACION-I\\Problema2.5\\Problema2.5.csproj",
+      "projectName": "Problema2.5",
+      "projectPath": "C:\\Proyectos C#\\UTN-PROGRAMACION-I\\Problema2.5\\Problema2.5.csproj",
       "packagesPath": "C:\\Users\\Salas\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos C#\\UTN-PROGRAMACION-I\\Ejercicio2.2\\obj\\",
+      "outputPath": "C:\\Proyectos C#\\UTN-PROGRAMACION-I\\Problema2.5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Salas\\AppData\\Roaming\\NuGet\\NuGet.Config",
