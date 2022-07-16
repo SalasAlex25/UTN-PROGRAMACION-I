@@ -1,0 +1,15 @@
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\bin\Debug\net6.0\Ejercicio2.1.exe
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\bin\Debug\net6.0\Ejercicio2.1.deps.json
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\bin\Debug\net6.0\Ejercicio2.1.runtimeconfig.json
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\bin\Debug\net6.0\Ejercicio2.1.dll
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\bin\Debug\net6.0\Ejercicio2.1.pdb
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.csproj.AssemblyReference.cache
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.AssemblyInfoInputs.cache
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.AssemblyInfo.cs
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.dll
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\refint\Ejercicio2.1.dll
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.pdb
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\Ejercicio2.1.genruntimeconfig.cache
+C:\Proyectos C#\UTN-PROGRAMACION-I\UTN-PROGRAMACION-I\obj\Debug\net6.0\ref\Ejercicio2.1.dll
